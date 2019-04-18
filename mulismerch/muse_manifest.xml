@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mulipipi.github.io/Website-1.muse" resolutions="1x,2x" timestamp="1555566721765">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mulipipi.github.io/mulimuli.muse" resolutions="1x,2x" timestamp="1555567746611">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="2133862" ref="index"/>
