@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://mulipipi.github.io/mulismerch/index.html</loc>
+    <lastmod>2019-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://mulipipi.github.io/mulismerch/images/click92x25.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mulipipi.github.io/mulismerch/images/click92x25_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mulipipi.github.io/mulismerch/images/click91x25.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mulipipi.github.io/mulismerch/images/click91x25_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mulipipi.github.io/mulismerch/images/click.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mulipipi.github.io/mulismerch/images/click_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mulipipi.github.io/mulismerch/images/%E5%A5%B3%E5%AD%A9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mulipipi.github.io/mulismerch/images/%E5%A5%B3%E5%AD%A9_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mulipipi.github.io/mulismerch/images/click93x26.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://mulipipi.github.io/mulismerch/images/click93x26_2x.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
