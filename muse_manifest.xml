@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mulipipi.github.io/mulipipi.github.io" resolutions="1x,2x" timestamp="1555579326935">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mulipipi.github.io" resolutions="1x,2x" timestamp="1555581648760">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4178476965" ref="index"/>
+    <file name="index.css" crc="4270282150" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -47,5 +47,5 @@
     <file name="是他.svg" crc="3967625517" ref="index"/>
     <file name="是他_poster_u877.png" crc="45624154" ref="index"/>
   </folder>
-  <file name="index.html" crc="221420648" seo="true" mt="1555570199500" redirect="true"/>
+  <file name="index.html" crc="137696905" seo="true" mt="1555581628944" redirect="true"/>
 </manifest>
