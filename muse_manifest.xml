@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mulipipi.github.io/mulismerch" resolutions="1x,2x" timestamp="1555568834410">
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="mulipipi.github.io/mulismerch" resolutions="1x,2x" timestamp="1555569059023">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4195691196" ref="index"/>
+    <file name="index.css" crc="2133862" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -31,10 +31,10 @@
     <file name="click_2x.png" crc="3864453411" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="女孩.png" crc="4007624213" seo="true" ref="index">
+    <file name="女孩.png" crc="393554094" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="女孩_2x.png" crc="196180920" seo="true" ref="index">
+    <file name="女孩_2x.png" crc="477434744" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="click93x26.png" crc="420235443" seo="true" ref="index">
@@ -46,5 +46,5 @@
     <file name="是他.svg" crc="4169284133" ref="index"/>
     <file name="是他_poster_u657.png" crc="4034687100" ref="index"/>
   </folder>
-  <file name="index.html" crc="3991113440" seo="true" mt="1555568823122" redirect="true"/>
+  <file name="index.html" crc="3973686582" seo="true" mt="1555566656434" redirect="true"/>
 </manifest>
